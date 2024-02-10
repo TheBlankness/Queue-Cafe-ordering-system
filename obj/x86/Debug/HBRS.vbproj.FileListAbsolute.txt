@@ -1,0 +1,157 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\bin\Debug\HBRS.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\bin\Debug\HBRS.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\bin\Debug\HBRS.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.exe
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.xml
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.pdb
+G:\HBRS\HBRS\bin\Debug\HBRS.exe
+G:\HBRS\HBRS\bin\Debug\HBRS.pdb
+G:\HBRS\HBRS\bin\Debug\HBRS.xml
+G:\HBRS\HBRS\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+G:\HBRS\HBRS\obj\x86\Debug\HBRS.Resources.resources
+G:\HBRS\HBRS\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\HBRS\HBRS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.exe
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.xml
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.pdb
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\bin\Debug\HBRS.exe
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\bin\Debug\HBRS.pdb
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\bin\Debug\HBRS.xml
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\HBRS.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Michael\Documents\Visual Studio 2010\Projects\HBRS\HBRS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckinListMonitor.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmRoomListMonitor.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmReserveListMonitor.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmCheckOutList.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\HBRS\HBRS\HBRS\obj\x86\Debug\HBRS.frmDiscount.resources
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\bin\Debug\HBRS.exe
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\bin\Debug\HBRS.pdb
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\bin\Debug\HBRS.xml
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.vbprojResolveAssemblyReference.cache
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckinListMonitor.resources
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmCheckOutList.resources
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmDiscount.resources
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmReserveListMonitor.resources
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmRoomListMonitor.resources
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.Resources.resources
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.vbproj.GenerateResource.Cache
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.vbproj.CoreCompileInputs.cache
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.exe
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.xml
+F:\Sem.4\extra vs code\hotel_mgmt_sys\HBRS\obj\x86\Debug\HBRS.pdb
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\bin\Debug\HBRS.exe
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\bin\Debug\HBRS.pdb
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\bin\Debug\HBRS.xml
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.vbprojAssemblyReference.cache
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.frmCheckinListMonitor.resources
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.frmCheckOutList.resources
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.frmDiscount.resources
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.frmReserveListMonitor.resources
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.frmRoomListMonitor.resources
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.Resources.resources
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.vbproj.GenerateResource.cache
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.vbproj.CoreCompileInputs.cache
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.vbproj.CopyComplete
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.exe
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.xml
+E:\Users\GL62\Downloads\Compressed\Hotel Billing and Reservation VB.NET\hotel_bill_reserve sys\HBRS\obj\x86\Debug\HBRS.pdb
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.vbprojAssemblyReference.cache
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.exe
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.xml
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.pdb
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\bin\Debug\HBRS.exe
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\bin\Debug\HBRS.pdb
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\bin\Debug\HBRS.xml
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.frmCheckin.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.frmCheckinList.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.frmCheckinListMonitor.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.frmCheckout.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.frmCheckOutList.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.frmDiscount.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.frmGuest.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.frmLogin.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.frmMain.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.frmReserve.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.frmReserveListMonitor.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.frmRoom.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.frmRoomListMonitor.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.frmSelectGuest.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.frmSelectRoom.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.Resources.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.vbproj.GenerateResource.cache
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.vbproj.CoreCompileInputs.cache
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.vbproj.CopyComplete
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.Food1.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.Food2.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.Food3.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.Food4.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.Drink2.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.Drink3.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.Drink4.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.Drinks1.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.MemberListclick.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.SplashScreen.resources
+C:\Users\TheLaw\Desktop\Queu_Cafe\HBRS\obj\x86\Debug\HBRS.About.resources
